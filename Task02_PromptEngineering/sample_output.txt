@@ -1,0 +1,26 @@
+PROMPT ENGINEERING RESULTS
+
+Prompt: Generate 3 creative startup ideas using AI technology.
+
+Generated Ideas:
+- AI Fitness Coach App
+- AI Personal Finance Advisor
+- AI Travel Planner
+
+---------------------------
+
+Prompt: You are a startup mentor. Suggest 3 innovative AI startup ideas that solve real world problems.
+
+Generated Ideas:
+- AI Crop Disease Detection for Farmers
+- AI Mental Health Chat Support
+- AI Resume Builder for Students
+
+---------------------------
+
+Prompt: Act like Elon Musk. Suggest futuristic AI startup ideas for the next 10 years.
+
+Generated Ideas:
+- AI Colony Builder for Mars
+- Neural AI Brain Interface Startup
+- Autonomous AI City Management System

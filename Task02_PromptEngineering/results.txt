@@ -1,0 +1,13 @@
+Result Analysis
+
+Prompt 1:
+General prompt generated simple AI ideas.
+
+Prompt 2:
+Providing role context improved practical ideas.
+
+Prompt 3:
+Using persona (Elon Musk) produced futuristic outputs.
+
+Conclusion:
+Prompt structure, tone and persona strongly influence creativity and detail in generated responses.

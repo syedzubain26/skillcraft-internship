@@ -1,1 +1,8 @@
+Prompt 1:
+Generate 3 creative startup ideas using AI technology.
 
+Prompt 2:
+You are a startup mentor. Suggest 3 innovative AI startup ideas that solve real world problems.
+
+Prompt 3:
+Act like Elon Musk. Suggest futuristic AI startup ideas for the next 10 years.
